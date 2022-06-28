@@ -1,0 +1,21 @@
+#countLabel{
+    display: block;/* it will change everything into block*/
+    text-align: center;
+    font-size: 50px;
+    background-color: black;
+    color: blue;
+}
+#decrease{
+    margin: 0 0 0 400px;/*t r b l*/
+    background-color: orange;
+}
+#decrease,#reset,#increase{
+    width: 150px;
+    height: 50px;
+}
+#reset{
+    background-color: white;
+}
+#increase{
+    background-color: green;
+}
