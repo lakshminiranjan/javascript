@@ -1,0 +1,14 @@
+/*
+
+
+This is for temperatures convertor.
+*/
+*{
+    text-align: center;
+}
+#cel{
+    margin-right: 33px;
+}
+#ce{
+    margin-right: 18px;
+}
